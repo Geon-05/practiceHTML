@@ -1,0 +1,12 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: 1px;
+    border-style: solid;
+    margin: 5px;
+}
+
+.password_box{
+    width: 500px;
+    height: 30px;
+}
